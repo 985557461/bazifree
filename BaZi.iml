@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="UPDATE_PROPERTY_FILES" value="true" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 18 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="alipaysdk" level="project" />
+    <orderEntry type="library" name="android-async-http-1.4.4" level="project" />
+    <orderEntry type="library" name="android-support-v13" level="project" />
+    <orderEntry type="library" name="gson-2.2.5" level="project" />
+    <orderEntry type="library" name="MobileSecSdk" level="project" />
+    <orderEntry type="library" name="payecopluginjar" level="project" />
+    <orderEntry type="library" name="ShareSDK-Core-2.5.2" level="project" />
+    <orderEntry type="library" name="ShareSDK-QQ-2.5.2" level="project" />
+    <orderEntry type="library" name="ShareSDK-QZone-2.5.2" level="project" />
+    <orderEntry type="library" name="ShareSDK-Wechat-2.5.2" level="project" />
+    <orderEntry type="library" name="ShareSDK-Wechat-Core-2.5.2" level="project" />
+    <orderEntry type="library" name="ShareSDK-Wechat-Moments-2.5.2" level="project" />
+    <orderEntry type="library" name="TenpayServiceSDK_V5.0" level="project" />
+    <orderEntry type="library" name="universal-image-loader-1.9.2" level="project" />
+    <orderEntry type="library" name="UPPayAssistEx" level="project" />
+    <orderEntry type="library" name="UPPayPluginEx" level="project" />
+    <orderEntry type="library" name="utdid4all-1.0.4" level="project" />
+    <orderEntry type="library" name="WanpuPay_4.1" level="project" />
+  </component>
+</module>
